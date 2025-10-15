@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"E:\\UnrealProjects\\1\\SimFlesh\\Plugins\\FEMFX-UE5-main\\FEMFX-UE5-main\\Source\\FEMEditor\\FEMEditor.Build.cs",
+		"E:\\UnrealProjects\\1\\SimFlesh\\Plugins\\FEMFX-UE5-main\\FEMFX-UE5-main\\Source\\FEM\\FEM.Build.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

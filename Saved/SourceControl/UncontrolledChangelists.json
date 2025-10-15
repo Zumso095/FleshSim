@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UnrealProjects/1/SimFlesh/Content/Maps/L_Base.umap",
+				"E:/UnrealProjects/1/SimFlesh/Content/FleshAssets/FA_Base.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/FleshAssets/DFA_Base.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/BP/BP_Pawn.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/BP/GM_SimFlesh.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/BP_Explorer_Pawn.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/BP/BP_Cube.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/Widgets/W_MainMenu.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/Widgets/W_Button.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/Widgets/W_TextInput.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/Widgets/W_CheckBox.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/FleshAssets/BP_Cube.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_3D_Center_Widget.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_3D_Widget.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_Compass_Widget.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_Amenities_Widget.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_EntryList_Widget.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_Entry_Widget.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_Gallery_Preview_Widget.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_Gallery_Widget.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_Info_Widget.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_Notification_Widget.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_Slider_Widget.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_Surroundings_Widget.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_MasterMenu_Widget.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_UnitSearch_Widget.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Widgets/BP_ToggleButton_01.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Enums/MediaType_Enum.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Enums/POI_Type_Enum.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Enums/Availability_Enum.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/BP_POI.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Structs/Media_Struct.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Structs/POI_Filter_Struct.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Structs/POI_Info_Struct.uasset",
+				"E:/UnrealProjects/1/SimFlesh/Content/ArchVizExplorer/Blueprints/Structs/DirectionStruct.uasset"
+			]
+		}
+	]
+}
