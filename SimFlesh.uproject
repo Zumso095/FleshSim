@@ -3,6 +3,13 @@
 	"EngineAssociation": "5.6",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "SimFlesh",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -13,6 +20,10 @@
 		},
 		{
 			"Name": "ChaosFlesh",
+			"Enabled": true
+		},
+		{
+			"Name": "VaRest",
 			"Enabled": true
 		}
 	]
