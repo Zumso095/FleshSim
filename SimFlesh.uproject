@@ -28,12 +28,12 @@
 		},
 		{
 			"Name": "AsyncFileUtils",
-			"Enabled": false,
+			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/e0b52149-53ef-4481-a5da-38a20856ce03"
 		},
 		{
 			"Name": "FileHelper",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bec5be3d587f4ff49a61d45d0e81e4c0"
 		},
 		{
