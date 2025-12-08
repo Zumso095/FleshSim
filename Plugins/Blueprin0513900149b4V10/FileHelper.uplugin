@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 6,
+	"VersionName": "3.4",
+	"FriendlyName": "FileHelper",
+	"Description": "Helper functions to access and handle files on the file system",
+	"Category": "File",
+	"CreatedBy": "RLoris",
+	"CreatedByURL": "https://rloris.github.io",
+	"DocsURL": "https://github.com/RLoris/FileHelperDoc/blob/master/README.md",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bec5be3d587f4ff49a61d45d0e81e4c0",
+	"SupportURL": "https://forms.gle/CpekZfTewGZrUVen7",
+	"EngineVersion": "5.6.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "FileHelper",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"IOS",
+				"Android",
+				"Linux",
+				"TVOS"
+			]
+		}
+	]
+}
